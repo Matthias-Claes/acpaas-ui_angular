@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## Unreleased
 
 - `calendar` Fixed an issue where the calendar doesn't jump to a predefined date.
+- `map` added possibility to set the zoom level of the `aui-leaflet-locate-control`.
 
 ## [1.1.0] - 2019-02-05
 
